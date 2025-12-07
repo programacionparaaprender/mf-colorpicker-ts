@@ -1,0 +1,16 @@
+.colorPicker {
+    width: 100%;
+    height: 20rem;
+}
+.textoColorpicker {
+    width: 1.5rem;
+    height: 1.5rem;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+    padding-right: 2rem;
+    background: #312828;
+    display: inline;
+    margin: 0 1rem;
+    border-radius: 100%;
+}
